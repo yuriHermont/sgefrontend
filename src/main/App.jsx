@@ -9,6 +9,5 @@ export default props => (
     <div className='container'>
         <Menu />
         <Routes />
-        
     </div>
 )

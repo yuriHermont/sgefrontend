@@ -11,8 +11,8 @@ export default props =>(
 
             <div id='navbar' className='navbar-collapse collapse'>
                 <ul className="nav navbar-nav">
-                    <li><a href='#/TelaEstoque'>SGE.tela</a></li>
-                    <li><a href='#/about'>Sobre</a></li>
+                    <li><a href='#/TelaEstoque'>Tela Estoque</a></li>
+                    <li><a href='#/Produto'>Tela Produto</a></li>
                 </ul>
             </div>
         </div>
