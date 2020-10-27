@@ -10,10 +10,6 @@
 
 - npm i --save-dev react@15.4.2 react-dom@15.4.2 react-router@3.0.2 axios@0.15.3
 
-## Dependências back 
-
-- npm i --save-dev body-parser@1.15.2 express@4.14.0 mongoose@4.7.0 node-restful@0.2.5 pm2@2.1.5 nodemon@1.11.0
-
-## Dependências Redux
-
-- npm i --save-dev redux@3.6.0 react-redux@5.0.2
+#Iniciando o projeto
+ - npm install
+ - npm run dev
